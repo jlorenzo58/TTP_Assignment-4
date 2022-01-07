@@ -1,0 +1,24 @@
+/* 5) Add a CSS stylesheet that styles all of your pages. */
+body{
+    background-color: lightcyan;
+}
+#inputUsername{
+    background-color: whitesmoke;
+    width:50%;
+}
+#inputEmail{
+    background-color: whitesmoke;
+    width:50%;
+}
+#inputPassword{
+    background-color: whitesmoke;
+    width:50%;
+}
+#buttons {
+    display: flex;
+    justify-content: center;
+    border-color: black;
+}
+#hover-text{
+    font-size:70px;
+}
